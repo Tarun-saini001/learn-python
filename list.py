@@ -1,4 +1,6 @@
-# print("hello python")
+#LIST- A list is an ordered, mutable collection.
+
+#  print("hello python")
 random_list = ["Tarun","Nitish","Manish","Manav","Krish"]
 
 # # Access Elements
